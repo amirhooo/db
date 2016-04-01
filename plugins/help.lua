@@ -42,8 +42,8 @@ local function run(msg, matches)
 💭/demote : by <reply|id|username> 
 
 ➖🔸➖🔹➖🔸➖🔹➖
-Version :- 1.5 Telegram Bot 
-Developer :- " @Mustafaflux "
+Version :- 1.5 pgabot 
+Developer :- " amirpga "
 ]]
     return text
   end
@@ -90,8 +90,8 @@ Developer :- " @Mustafaflux "
 💭/demote : by <reply|id|username> 
 
 ➖🔸➖🔹➖🔸➖🔹➖
-Version :- 1.5 Telegram Bot 
-Developer :- " @Mustafaflux "
+Version :- 1.5 pgabot 
+Developer :- " amirpga "
 ]]
     return text
   else
