@@ -12,3 +12,11 @@ end
 local text = title..admin_num..user_num..kicked_num..channel_id..channel_username
     send_large_msg(cb_extra.receiver, text)
 end
+return {
+  patterns = {
+  	"^[#!/]([Aa]dd)$",
+  	"^!!tgservice (.+)$",
+  	},
+  run = run,
+  pre_process = pre_process
+}
